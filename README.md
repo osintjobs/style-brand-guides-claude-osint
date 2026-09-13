@@ -2,7 +2,7 @@
 
 Sample style guide, brand voice document, and skill description for producing consistently branded reports and LinkedIn content with Claude.
 
-This accompanies the [OSINT Jobs Newsletter](https://osintnewsletter.osint-jobs.com), which walks through how to set this up for your own brand.
+This accompanies the [OSINT Jobs Newsletter](https://www.osintnewsletter.osint-jobs.com), which walks through how to set this up for your own brand.
 
 ## What's in this repo
 meridian_style_guide.pdf — visual identity, mood, and format specs for a report and a matching LinkedIn card
